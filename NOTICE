@@ -1,0 +1,25 @@
+Nyveil Media Suite
+Copyright (C) 2026 Jason Bruns
+
+Nyveil Media Suite is licensed under the GNU General Public License,
+version 3 or later (GPL-3.0-or-later). See LICENSE for the full text.
+
+This product includes software developed by third parties. The complete
+third-party license information is in THIRD_PARTY_LICENSES.md and the
+licenses/ directory.
+
+Bundled FFmpeg:
+  FFmpeg 9.0.1-full_build-www.gyan.dev
+  Copyright (c) 2000-2026 the FFmpeg developers
+  GPLv3 (as identified by the supplier for this static build)
+  SHA-256: 57C56E369D5B4873B4D93FC1A1D833CB7CD8BC9325C14B05C34CE60B22842D8A
+  Source: https://ffmpeg.org/releases/ffmpeg-9.0.1.tar.xz
+
+Bundled PyAV wheel:
+  PyAV 18.1.0 (BSD-3-Clause) with FFmpeg 8.1.2 libraries, including GPL
+  libx264 and libx265. See THIRD_PARTY_LICENSES.md, section 3.2.
+
+Nyveil is not affiliated with, endorsed by, or sponsored by YouTube, Google,
+TikTok, Instagram, Meta, SoundCloud, Vimeo, X/Twitter, Twitch, Reddit,
+VideoLAN/VLC, FFmpeg, Gyan.dev, GitHub, or their maintainers. All names and
+trademarks belong to their respective owners.
