@@ -8,7 +8,7 @@ Nyveil Media Suite is a compact Windows desktop utility for downloading publicly
 
 ## Download
 
-Download the Windows release ZIP from the **Releases** page. The ZIP contains the executable and all legal/license notices; a bare EXE may also be provided for convenience. Every release also includes a complete source archive so the GPLv3 source-availability requirement is met. See [SOURCE_OFFER.md](SOURCE_OFFER.md) and [PUBLISHING.md](PUBLISHING.md) for the release layout.
+Download the Windows release ZIP from the **Releases** page. The ZIP contains the executable and all legal/license notices; a bare EXE may also be provided for convenience. Every release also includes a complete source archive so the GPLv3 source-availability requirement is met. See [SOURCE_OFFER.md](SOURCE_OFFER.md) for the source-availability terms.
 
 No media files are hosted here. Nyveil is a tool; it does not provide or endorse content.
 
@@ -109,9 +109,7 @@ Nyveil is not affiliated with, endorsed by, or sponsored by YouTube, Google, Tik
 - [FFMPEG_NOTICE.md](FFMPEG_NOTICE.md) — bundled FFmpeg details and source information
 - [SOURCE_OFFER.md](SOURCE_OFFER.md) — GPLv3 source availability
 - [TRADEMARKS.md](TRADEMARKS.md) — name, icon, and fork policy
-- [PUBLISHING.md](PUBLISHING.md) — GitHub release layout, source ZIP, and publishing steps
 - [licenses/](licenses/) — full license texts
-- [RELEASE_CHECKLIST.md](RELEASE_CHECKLIST.md) — release and legal checks
 
 ## Support and release contact
 
